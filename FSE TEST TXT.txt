@@ -1,0 +1,58 @@
+Guilherme Marinho de Araujo - Respostas do teste do dia 01/10/2019
+
+1: | 2.5)
+Os processos da Umbrella activities são:
+Comunicação: Onde a equipe entra em contato com o cliente para definir tudo que vai ser necessário no sistema, alguns requisitos, para que tudo esteja claro quando for ser desenvolvido.
+Planejamento: Onde a equipe irá se reunir para definir prioridades e montar o plano de projeto para que o produto seja entregue da melhor maneira possivel e de forma mais ágil, calculando riscos e montando todo o cronograma.
+Modelagem: Onde todo o esboço será criado para se ter uma ideia mais ampla a cerca do que será desenvolvido, e ter ideia das soluções que terá que implementar para cada novo problema a ser tratado
+Construção: Onde tudo é montado a partir da modelagem para que se descubra erros de codigo e soluções melhores para alguns problemas isolados
+Desenvolvimento: Onde tudo é entregue para o cliente para que ele retorne um feed-back para ai sim se ter ideia de tudo que foi acertado e todos os erros da entrega.
+
+Cada uma das cinco etapas tem seu tempo para ser executado da melhor maneira possivel, mas para cada caso, para cada projeto, para cada funcionalidade do produto a ser entregue as etapas podem ser mais curtas ou mais rapidas dependendo do que está sendo abordado, logo, não é algo uniforme. Cada entrega é importante e depenedndo do que está sendo tratado pode ter mais comunicação e modelagem, assim como para outra o periodo para planejamento tenha que ser maior.
+
+2: | 4.10)
+"No one could predict that millions of computer programs would have to be
+corrected, adapted, and enhanced as time passed. The burden of performing
+these “maintenance” activities would absorb more people and more resources
+than all work applied to the creation of new software."
+
+O crescimento exponencial do uso da programaçao como solução para diversos problemas toda cada vez mais certo o uso dela, e assim, se tudo for retestado cada vez que for implementado o desenvolvimento se torna algo lento, o que inviabiliza a produção, tirando o foco do desenvolvimento em si para uma area de testes que pode muito bem ser relevada, já que inumeros testes foram feitos anteriormente. Tudo gira em torno da produção dos mesmo, não é necessario retestar algo que ja se provou certo anteriormente.
+
+3: | 5.3)
+Um processo iterativo facilita alterações justamente pelo fato de ser iterativo. As etapas de comunicação, planejamento, modelagem, construção e desenvolvimento não são necessariamente lineares, há repetição nos processos, onde se pode voltar para um processo que ja foi visto para alterar algo que pouco depois foi notado que seria melhor ser alterado, assim, deixando mais simples as proximas alterações dos futuros processos a serem executados.
+Nem todos os processos ageis são iterativos, como por exemplo o Agile Unified Process (AUP), onde é um projeto linear, onde as etapas são concretizadas uma a uma.
+O maior exemplo de se poder concluir um projeto em apenas uma iteração são os processos ageis lineares como o AUP, citado anteriormente.
+
+4: | 6.6)
+closed paradigm: produção rapida de softwares semelhantes aos que ja forma implementados
+random paradigm: depende de cada individuo, foco em inovação mas não tem um desempenho ordenado
+open paradigm: foco em comunicação para se ter o controle do closed paradigm e a inovação do random paragim, para solução de problemas complexos mas não se tem tanta agilidade
+synchronous paradigm: cada membro foca em algo especifico para agilizar mas não se tem tanta comunicação
+Para a companhia de seguros na minha opinião o closed paradigm seria mais adequado devido ao foco ser mais em manuntenção do software e não se ter tanta necessidade de inovação.
+Para a empresa de engenharia o open paradigm seria excelente devido à grande comunicação para que se tenha o controle do closed paradigm para que não aja problemas em estruturais na construção de algo, levando a um prejuizo muito maior. A comunicação seria essencial.
+Para uma empresa de jogos o random paradigm seria o indicado pois a criatividade e a inovação são o foco. Criatividade e inovação são aspectos muito importantes para que se tenha um jogo com muita historia, coisas diferentes e afins.
+Para uma grande empresa de TI, tanto o synchronous paradigm quanto o closed paradigm seriam validos na minha opinião devido o foco ser a agilidade e manuntenção.
+
+5: | 7.9)
+Granularity nada mais é que o nivel de detalhe que se tem num projeto a ser desenvolvido.
+Quanto maior o nivel, se tem um aumento de detalhes que ajudam no planejamento, tornando o planejamento e os incrementos mais curtos.
+Quanto menor o nivel de Granularity, mais amplo é o trabalho de planejamento e de ajustes que se podem ter ao longo de semanas ou meses.
+
+6: | 7.13)
+Um teste bem sucessido é quando se descobre um erro que não tinha sido descoberto.
+
+7: | 8.3)
+Muitas vezes a comunicação com diversos clientes diferentes a cerca do mesmo projeto pode trazer confusões no que realmente quer. Muitas vezes você decide uma funcionalidade, uma solução, e até mesmo discute sobre um problema, e quando vai falar com outro não era bem aquilo que eles estavam querendo, por isso é importante que tudo esteja claro para os clientes para que se tenha o foco corretor e que se resolva o que tem de ser resolvido.
+
+8: | 8.17)
+(1) a depuração distribuída descobre erros e determina sua causa
+ (2) a verificação em tempo de execução determina se o software corresponde sua especificação
+ (3) a validação em tempo de execução avalia se o software em evolução atenda às metas do usuário
+ (4) o monitoramento de atividades de negócios avalia se um sistema satisfaz as metas de negócios
+ (5) a evolução e o design de código fornecem informações para partes interessadas à medida que o sistema evolui.
+
+9: | 10.7)
+O pacote de analises serve para organização e para categorização. Ele pode ser usado em forma de diagramas, como diagramas de classes, de uso, de sequencia, para que se tenha uma visão maior a cerca do problema a ser solucionado. Tendo inumeras maneiras de organizar você terá como planejar melhor para solucionar melhor.
+
+10: | 11.2)
+A diferença entre um diagrama de estados e uma diagrama de sequencia é que no diagrama de sequencia voce tem todo o passo a passo que será realizado para a mudança do objeto em questão, ja no diagrama de estados você tem apenas a transição de um estado para o outro e o que aquilo causou no sistema em si. Ambos os diagramas mostram mudanças de estado de um determinado objeto, so que um de forma sequencial e outra de forma instantânea
